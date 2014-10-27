@@ -1,0 +1,192 @@
+Cmp-Mod V01 Created by Cvpcb (2014-10-11 BZR 5175)-product   date = Sun 26 Oct 2014 17:34:36 GMT
+
+BeginCmp
+TimeStamp = /544988E9;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = workshop:BC-2001;
+EndCmp
+
+BeginCmp
+TimeStamp = /544CF11B;
+Reference = C1;
+ValeurCmp = 4.7µF;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54498FB1;
+Reference = C2;
+ValeurCmp = 0.1µF;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54491C0C;
+Reference = C3;
+ValeurCmp = 0.1µF;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544BEC37;
+Reference = C4;
+ValeurCmp = 15pF;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544BA0DE;
+Reference = C5;
+ValeurCmp = 27pF;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544BEC3D;
+Reference = C6;
+ValeurCmp = 15pF;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544BA2CE;
+Reference = C7;
+ValeurCmp = 27pF;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544BEBDC;
+Reference = D1;
+ValeurCmp = TX;
+IdModule  = workshop:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544BBDAA;
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544BBE0F;
+Reference = D3;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54491F5E;
+Reference = D4;
+ValeurCmp = POWER;
+IdModule  = workshop:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C01B7;
+Reference = IC1;
+ValeurCmp = ATTINY841-SSU;
+IdModule  = workshop:SOIC-14_N;
+EndCmp
+
+BeginCmp
+TimeStamp = /544CE303;
+Reference = J1;
+ValeurCmp = USB;
+IdModule  = workshop:USB_A_MC32604;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C48B2;
+Reference = P1;
+ValeurCmp = BSL;
+IdModule  = workshop:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C2D13;
+Reference = P2;
+ValeurCmp = BSL;
+IdModule  = workshop:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = /54491A1C;
+Reference = P3;
+ValeurCmp = ISP;
+IdModule  = workshop:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /54493600;
+Reference = R1;
+ValeurCmp = 1k5;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544933B5;
+Reference = R2;
+ValeurCmp = 68;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5449344B;
+Reference = R3;
+ValeurCmp = 68;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544BEDFB;
+Reference = R4;
+ValeurCmp = 68;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54492A1D;
+Reference = R5;
+ValeurCmp = 68;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54491DC6;
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544BE5E3;
+Reference = R7;
+ValeurCmp = 10k;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544BD5B4;
+Reference = U1;
+ValeurCmp = MSP430FR5738;
+IdModule  = workshop:TSSOP-28;
+EndCmp
+
+BeginCmp
+TimeStamp = /544BEC31;
+Reference = X1;
+ValeurCmp = 32768Hz;
+IdModule  = workshop:Crystal_Round_Horizontal_2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544B94F0;
+Reference = X2;
+ValeurCmp = 12MHz;
+IdModule  = workshop:Crystal_HC49-U_Vertical;
+EndCmp
+
+EndListe
