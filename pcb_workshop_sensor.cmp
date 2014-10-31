@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-11 BZR 5175)-product   date = Sun 26 Oct 2014 17:34:36 GMT
+Cmp-Mod V01 Created by Cvpcb (2014-10-11 BZR 5175)-product   date = Fri 31 Oct 2014 15:42:11 GMT
 
 BeginCmp
 TimeStamp = /544988E9;
@@ -57,6 +57,13 @@ IdModule  = workshop:0603;
 EndCmp
 
 BeginCmp
+TimeStamp = /5453B61D;
+Reference = C8;
+ValeurCmp = 0.1µF;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
 TimeStamp = /544BEBDC;
 Reference = D1;
 ValeurCmp = TX;
@@ -67,14 +74,14 @@ BeginCmp
 TimeStamp = /544BBDAA;
 Reference = D2;
 ValeurCmp = DIODE;
-IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+IdModule  = workshop:Diode-SMA_Standard;
 EndCmp
 
 BeginCmp
 TimeStamp = /544BBE0F;
 Reference = D3;
 ValeurCmp = DIODE;
-IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+IdModule  = workshop:Diode-SMA_Standard;
 EndCmp
 
 BeginCmp
@@ -169,10 +176,31 @@ IdModule  = workshop:0603;
 EndCmp
 
 BeginCmp
+TimeStamp = /5453B005;
+Reference = R8;
+ValeurCmp = 10k;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5453B274;
+Reference = R9;
+ValeurCmp = 10k;
+IdModule  = workshop:0603;
+EndCmp
+
+BeginCmp
 TimeStamp = /544BD5B4;
 Reference = U1;
 ValeurCmp = MSP430FR5738;
 IdModule  = workshop:TSSOP-28;
+EndCmp
+
+BeginCmp
+TimeStamp = /5453A5AB;
+Reference = U2;
+ValeurCmp = TMP275;
+IdModule  = workshop:MSOP-8;
 EndCmp
 
 BeginCmp
