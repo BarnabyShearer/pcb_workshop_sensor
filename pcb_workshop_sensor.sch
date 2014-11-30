@@ -352,15 +352,15 @@ Text Notes 2150 1100 0    60   ~ 0
 USB Port
 Text Notes 3650 1000 0    60   ~ 0
 cheep\nvoltage\ndrop
-Text Label 5450 1700 2    60   ~ 0
+Text Label 5450 2300 2    60   ~ 0
 D-
-Text Label 5450 1800 2    60   ~ 0
+Text Label 5450 1900 2    60   ~ 0
 D+
-Text Label 5450 1200 2    60   ~ 0
+Text Label 5450 1700 2    60   ~ 0
 MISO
 Text Label 5450 1600 2    60   ~ 0
 SCK
-Text Label 5450 1300 2    60   ~ 0
+Text Label 5450 1800 2    60   ~ 0
 MOSI
 Text Label 5450 2400 2    60   ~ 0
 AVR_RST
@@ -405,11 +405,11 @@ Wire Wire Line
 	3800 2200 3700 2200
 Wire Wire Line
 	3700 2200 3700 2150
-Text Label 5450 1900 2    60   ~ 0
+Text Label 5450 1300 2    60   ~ 0
 AVR_TX
 Text Label 5450 1400 2    60   ~ 0
 AVR_RX
-Text Label 5450 2300 2    60   ~ 0
+Text Label 5450 1200 2    60   ~ 0
 AVR_DTR
 Text Label 5450 1500 2    60   ~ 0
 AVR_RTS

@@ -1,4 +1,4 @@
-update=Fri 31 Oct 2014 14:52:27 GMT
+update=Wed 19 Nov 2014 10:21:06 GMT
 version=1
 last_client=kicad
 [cvpcb]
@@ -6,8 +6,6 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
-[general]
-version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -64,3 +62,5 @@ LibName29=contrib
 LibName30=valves
 LibName31=msp430fr5738
 LibName32=tmp275
+[general]
+version=1
